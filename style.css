@@ -29,10 +29,26 @@ body {
   justify-content: space-between;
 }
 
-.header__links{
+.hero__logo-text {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.hero__text--primary {
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: 900;
+}
+
+.hero__text--secondary {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.header__links {
   list-style: none;
 }
 
-.link{
+.link {
   text-decoration: none;
 }
