@@ -91,3 +91,21 @@ body {
 .placeholder__text {
   color: #fff;
 }
+
+.information__container {
+  background-color: yellowgreen;
+  padding: 40px 200px 50px 200px;
+}
+
+.information__title {
+  text-align: center;
+}
+
+.informations {
+  display: flex;
+  justify-content: center;
+}
+
+.information__box {
+  flex: 1;
+}
