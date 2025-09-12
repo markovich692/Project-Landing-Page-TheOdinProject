@@ -59,4 +59,13 @@ body {
 
 .hero__content {
   display: flex;
+  justify-content: space-between;
+}
+
+.hero__content-main {
+  flex: 1;
+}
+
+.hero__content-secondary {
+  flex: 1;
 }
