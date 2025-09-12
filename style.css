@@ -27,6 +27,7 @@ body {
 .navigation__bar {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .hero__logo-text {
@@ -47,10 +48,15 @@ body {
 
 .header__links {
   list-style: none;
-  display:flex;
-  gap:12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
 }
 
 .link {
   text-decoration: none;
+}
+
+.hero__content {
 }
