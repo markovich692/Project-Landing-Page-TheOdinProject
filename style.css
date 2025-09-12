@@ -39,11 +39,14 @@ body {
   font-size: 48px;
   color: #f9faf8;
   font-weight: 900;
+  line-height: 1.2;
+  margin-bottom: 15px;
 }
 
 .hero__text--secondary {
-  font-size: 18px;
+  font-size: 15px;
   color: #e5e7eb;
+  margin-bottom: 12px;
 }
 
 .header__links {
