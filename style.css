@@ -74,6 +74,7 @@ body {
 
 .hero__content--main {
   flex: 1;
+  padding-right: 40px;
 }
 
 .hero__content--secondary {
