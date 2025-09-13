@@ -137,3 +137,29 @@ body {
 }
 
 /* TESTIMONIAL */
+.testimonial__container {
+  background-color: #e7e5eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px 100px;
+}
+
+.testimonial__content {
+  max-width: 900px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-right: 75px;
+}
+
+.testimonial__text {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 300;
+}
+
+.testimonial__author {
+  align-self: flex-end;
+}
