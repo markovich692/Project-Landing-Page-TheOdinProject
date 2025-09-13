@@ -101,6 +101,9 @@ body {
 }
 
 .information__title {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 900;
   text-align: center;
   margin-bottom: 40px;
 }
