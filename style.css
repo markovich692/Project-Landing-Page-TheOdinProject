@@ -95,6 +95,9 @@ body {
 /* INFORMATION */
 .information__container {
   padding: 40px 200px 50px 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .information__title {
@@ -122,10 +125,12 @@ body {
   justify-content: center;
   align-items: center;
   padding-top: 12px;
-  flex: 1;
+  flex: 1 0;
 }
 
 .information__text {
   text-align: center;
   width: 110px;
 }
+
+/* TESTIMONIAL */
