@@ -171,7 +171,7 @@ body {
   align-self: flex-end;
 }
 
-/* FOOTER */
+/* CTA */
 
 .cta {
   display: flex;
@@ -196,4 +196,12 @@ body {
 
 .button__cta {
   border: 1.5px solid #f9faf8;
+}
+
+/* FOOTER */
+
+footer {
+  background-color: #1f2937;
+  padding: 30px 0;
+  text-align: center;
 }
