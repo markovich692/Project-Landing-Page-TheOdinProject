@@ -163,3 +163,17 @@ body {
 .testimonial__author {
   align-self: flex-end;
 }
+
+/* FOOTER */
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 130px;
+}
+
+.cta {
+  background-color: #3882f6;
+  padding: 60px 50px;
+}
