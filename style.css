@@ -79,7 +79,7 @@ body {
 }
 
 .button {
-  padding: 4px 12px;
+  padding: 4px 20px;
   background-color: #3882f6;
   color: #f9faf8;
   border: none;
@@ -181,4 +181,8 @@ body {
   align-items: center;
   flex: 1;
   border-radius: 12px;
+}
+
+.button__cta {
+  border: 1.5px solid #f9faf8;
 }
