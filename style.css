@@ -176,4 +176,9 @@ footer {
 .cta {
   background-color: #3882f6;
   padding: 60px 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex: 1;
+  border-radius: 12px;
 }
