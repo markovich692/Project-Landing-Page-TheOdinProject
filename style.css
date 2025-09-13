@@ -166,14 +166,14 @@ body {
 
 /* FOOTER */
 
-footer {
+.cta {
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 130px 300px;
 }
 
-.cta {
+.cta__container {
   background-color: #3882f6;
   padding: 60px 50px;
   display: flex;
