@@ -59,10 +59,12 @@ body {
   justify-content: center;
   align-items: center;
   gap: 12px;
+  flex: 0 0 auto;
 }
 
 .link {
   text-decoration: none;
+  flex: 0 0 auto;
 }
 
 .hero__content {
@@ -90,6 +92,7 @@ body {
   outline: none;
   border-radius: 5px;
   cursor: pointer;
+  flex: 0 0 auto;
 }
 
 .placeholder__text {
